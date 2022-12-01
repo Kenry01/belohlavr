@@ -1,5 +1,5 @@
 {
-    "name": "bělohlavr",
+    "name": "pxt-bělohlavr",
     "description": "",
     "dependencies": {
         "core": "*",
